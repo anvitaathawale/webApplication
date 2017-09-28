@@ -1,0 +1,59 @@
+
+.spacing p, .spacing h4
+{
+margin-top:0px;
+margin-bottom:0px;
+ }
+ 
+ 
+ #wrapper{
+ 
+ margin:auto;
+ width:80%;
+ }
+
+h1{
+
+color:#003366;
+line-height:200%;
+}
+
+
+.navigate{
+
+font-size:1.1em;
+}
+
+
+body{
+
+background-color:#6699ff;
+}
+
+div p{
+
+color:#d5e3ff;
+
+}
+
+.Verdana{
+
+font-family:Verdana;
+
+}
+
+.footer{
+
+font-family:Verdana;
+color:#d5e3ff;
+font-size:0.70em;
+
+}
+
+
+
+
+
+
+
+
